@@ -14,5 +14,11 @@ I have explored the classical models under the classification task under machine
 - Random Forest
 
 ## Setup
+
+To run this project, install the required libraries:
+
+\`\`\`bash
 pip install -r requirements.txt
-To run the project smoothly you will need to install the following python libraries numpy, pandas, matplotlib seaborn and scikit-learn use the most recent versions.
+\`\`\`
+
+This installs numpy, pandas, matplotlib, seaborn, and scikit-learn (latest versions).
