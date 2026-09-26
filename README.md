@@ -17,8 +17,7 @@ I have explored the classical models under the classification task under machine
 
 To run this project, install the required libraries:
 
-\`\`\`bash
 pip install -r requirements.txt
-\`\`\`
+
 
 This installs numpy, pandas, matplotlib, seaborn, and scikit-learn (latest versions).
