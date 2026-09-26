@@ -15,3 +15,4 @@ I have explored the classical models under the classification task under machine
 
 ## Setup
 pip install -r requirements.txt
+To run the project smoothly you will need to install the following python libraries numpy, pandas, matplotlib seaborn and scikit-learn use the most recent versions.
